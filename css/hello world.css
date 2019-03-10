@@ -1,0 +1,37 @@
+hello world.css
+
+table,th,td{
+    border:1px solid black
+}
+
+body{
+    background-image: url(https://thumbor.forbes.com/thumbor/1280x868/https%3A%2F%2Fblogs-images.forbes.com%2Fzackomalleygreenburg%2Ffiles%2F2017%2F08%2F0731_lb-dj-marshmello_1200x630.jpg);
+}
+
+#profile{
+    display: none;
+}
+
+h1{
+    color:blue;
+}
+
+h2{
+    color:green;
+}
+
+p{
+    color:white;
+}
+
+li{
+    color:white;
+}
+
+h3{
+    color:white;
+}
+
+table{
+    color:white;
+}
